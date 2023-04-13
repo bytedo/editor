@@ -6,7 +6,7 @@
 
 ```js
 // 或者从CDN地址中获取
-import { EditorView, minimalSetup, vue, js, css, html } from '@bytedo/editor'
+import { EditorView, minimalSetup, vue, javascript, css, html } from '@bytedo/editor'
 
 
 let view = new EditorView({
