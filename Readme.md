@@ -1,5 +1,5 @@
 ## @bytedo/editor
-> 定制版的前端代码编辑器, 基于`CodeMirror 6.0`,提供`html,css,js, vue`的语法高亮和最基本的键盘快捷键。
+> 定制版的前端最小化代码编辑器, 代码minify之后,仅`400KB`, 基于`CodeMirror 6.0`,提供`html, css, js, vue`的语法高亮和最基本的键盘快捷键。
 
 
 ### 用法
